@@ -34,12 +34,8 @@
 
 - 详见项目部署文档
 
-## 交流群
+# 鸣谢
 
-- QQ群：338371628
+- github大佬贡献的开源项目https://github.com/linhaojun857/aurora
 
-## 鸣谢
-
-- 感谢[网盾星球](https://cdn.netdun.net/)赞助的CDN
-- 感谢[jetbrains](https://www.jetbrains.com/)提供的开源开发许可证
-# MyBlog
+  
